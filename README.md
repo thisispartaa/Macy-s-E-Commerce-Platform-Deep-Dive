@@ -13,9 +13,9 @@ This project provides a strategic clickstream analysis of Macy’s e-commerce pl
 
 ## Key Findings
 
-- Conversion rate decreased by 10.51%, yet Average Order Value (AOV) increased—indicating customers who did purchase, spent more.
+- Conversion rate decreased by 10.51%, yet Average Order Value (AOV) increased, indicating customers who did purchase spent more.
 - The most effective marketing channel was Paid Search, delivering the highest conversion rates.
-- Men’s t-shirts landing page was the top-performing page, contributing significantly to conversions.
+- Men's t-shirts landing page was the top-performing page, contributing significantly to conversions.
 - Goal completion rate improved by 14.53% from 2019 to 2020.
 - Zip Hoodie F/C emerged as the top-selling product by revenue.
 - 47% of new users were from the USA, followed by India and Canada.
@@ -38,7 +38,6 @@ This project provides a strategic clickstream analysis of Macy’s e-commerce pl
 ## Tools and Technologies
 
 - Google Analytics 4 (GA4)
-- Excel / Python (Pandas, NumPy)
 - PowerPoint (for final presentation)
 - Macy’s Annual Report (for business alignment)
 
